@@ -1,0 +1,19 @@
+body {
+	font-family: Helvetica,Arial,sans-serif;
+	font-size: 32px;
+}
+
+@font-face{
+    font-family:'TimeStamp';
+    src: url('fonts/TimeStamp-Standard.otf')
+}
+
+a {
+	color:red;
+}
+
+div.title{
+    font-size:200px;
+    text-align:center;
+    font-family:'TimeStamp';
+}
